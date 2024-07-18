@@ -21,6 +21,7 @@ Sensor Setup
 ============
 
 Use MicoAir's MicoAssistant software using an FTDI adapter (USB to serial) to set its output protocol to "mav-apm".
+You can configure your MTF-01 sensor using the ArduPilot's serial passthrough function, bypassing the need for an FTDI adapter. For detailed instructions and additional configurations, please refer to micoair website(https://shorturl.at/VWZB8).
 
 
 
